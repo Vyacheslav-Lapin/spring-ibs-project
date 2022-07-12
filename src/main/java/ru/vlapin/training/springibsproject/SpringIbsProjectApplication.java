@@ -6,7 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringIbsProjectApplication {
 
-  public static void main(String[] args) {
-    SpringApplication.run(SpringIbsProjectApplication.class, args);
-  }
+    public static void main(String[] args) {
+      SpringApplication.run(SpringIbsProjectApplication.class, args);
+    }
+
 }
